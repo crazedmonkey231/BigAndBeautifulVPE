@@ -1,0 +1,6 @@
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\BiggerBadderVPEPsycasts\Source\BBPsycasts\obj\Debug\BBPsycasts.csproj.AssemblyReference.cache
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\BiggerBadderVPEPsycasts\Source\BBPsycasts\obj\Debug\BBPsycasts.csproj.CoreCompileInputs.cache
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\BiggerBadderVPEPsycasts\1.4\Assemblies\BBPsycasts.dll
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\BiggerBadderVPEPsycasts\1.4\Assemblies\BBPsycasts.pdb
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\BiggerBadderVPEPsycasts\Source\BBPsycasts\obj\Debug\BBPsycasts.dll
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\BiggerBadderVPEPsycasts\Source\BBPsycasts\obj\Debug\BBPsycasts.pdb
