@@ -43,7 +43,7 @@ namespace BBPsycasts.CustomPsySettings.Module
         public override void DisplaySettings(Listing_Standard listing_Standard)
         {
             base.DisplaySettings(listing_Standard);
-            listing_Standard.CheckboxLabeled(Label, ref _state, Tooltip);
+            listing_Standard.CheckboxLabeled("{0} {1}".Formatted(Label, _state ? "▲" : "▼"), ref _state, Tooltip);
         }
 
         public override void ExposeData()
